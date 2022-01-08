@@ -20,6 +20,9 @@ export default function Home() {
       <Head>
         <title>NextJs + Tailwind + TypeScript | TheRakeshPurohit</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta
+  name="description"
+  content="NextJS demo with Tailwind CSS and Typescript by TheRakeshPurohit">
       </Head>
       <div className="flex flex-col items-center justify-center min-h-screen py-2">
         <NavBar />
