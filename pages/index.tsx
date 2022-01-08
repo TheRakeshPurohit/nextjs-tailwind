@@ -23,19 +23,7 @@ export default function Home() {
       </Head>
       <div className="flex flex-col items-center justify-center min-h-screen py-2">
         <NavBar />
-        <div className="relative">
-          <div>span</div>
-          <div>span</div>
-          <div>span</div>
-          <div>span</div>
-          <div>span</div>
-          <div>span</div>
-          <div>span</div>
-          <div>span</div>
-          <div>span</div>
-          <div>span</div>
-          <div>span</div>
-        </div>
+        
         <footer className="flex items-center justify-center w-full h-24 border-t">
           <a
             className="flex items-center justify-center"
